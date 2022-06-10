@@ -1,0 +1,15 @@
+*.zip
+*.sh
+*.lock
+*.log
+*.xml
+host/
+.settings/
+.metadata/
+.vscode/
+*.Id
+*.prefs
+*.cproject
+*.project
+*.pdom
+*.launch
