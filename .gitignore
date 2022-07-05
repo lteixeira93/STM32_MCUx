@@ -13,3 +13,10 @@ host/
 *.project
 *.pdom
 *.launch
+*.elf
+*.o
+*.list
+*.su
+*.mk
+*.d
+*.map
